@@ -12,6 +12,6 @@
 
 https://www.skillshetra.com
 
-• 📈 Learn Skills that actually Pay Bills
-• 🚀 "Learn Via Practice" oriented mindset
-• Practicality and Applicability over old book Theory
+- 📈 Learn Skills that actually Pay Bills
+- 🚀 "Learn Via Practice" oriented mindset
+- Practicality and Applicability over old book Theory
